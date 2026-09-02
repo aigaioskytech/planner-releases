@@ -3,5 +3,5 @@
   "date": "2026-09-02",
   "url": "https://github.com/aigaioskytech/planner-releases/releases/latest",
   "exe": "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.1/AigaioPlanner3D-Setup-2.2.1.exe",
-  "notes": "Εγκαταστάτης Windows, ενοποιημένες ρυθμίσεις"
+  "notes": "Αυτόματη εγκατάσταση ενημερώσεων, διόρθωση φόρτωσης στο Mission Planner"
 }
