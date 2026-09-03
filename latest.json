@@ -1,7 +1,7 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.5",
   "date": "2026-09-03",
   "url": "https://github.com/aigaioskytech/planner-releases/releases/latest",
-  "exe": "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.2/AigaioPlanner3D-Setup-2.2.2.exe",
-  "notes": "Διόρθωση δισδιάστατης προβολής, αυτόματη εγκατάσταση ενημερώσεων"
+  "exe": "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.5/AigaioPlanner3D-Setup-2.2.5.exe",
+  "notes": "Διόρθωση σχεδίασης σε 2D, μετακίνηση Home, σταθερότερη εγκατάσταση"
 }
