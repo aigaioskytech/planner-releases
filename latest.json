@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.7",
+    "version":  "2.2.8",
     "date":  "2026-09-04",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.7/AigaioPlanner3D-Setup-2.2.7.exe",
-    "notes":  "Αυτόματη επιλογή γωνίας γραμμών και σημείου εκκίνησης (εκκίνηση από το πιο μακρινό σημείο, λιγότερες στροφές, τουλάχιστον 3 λήψεις ανά γραμμή)"
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.8/AigaioPlanner3D-Setup-2.2.8.exe",
+    "notes":  "Διόρθωση διαδρομής σε πολύγωνα με εσοχή (κοίλα): οι γραμμές δεν περνούν πλέον μέσα από την εσοχή. Οι γραμμές λήψης προβάλλονται και στο έδαφος, μεταβάσεις με διακεκομμένη."
 }
