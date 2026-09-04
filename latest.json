@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.6",
-    "date":  "2026-09-03",
+    "version":  "2.2.7",
+    "date":  "2026-09-04",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.6/AigaioPlanner3D-Setup-2.2.6.exe",
-    "notes":  "Προσθήκη κορυφής στο πολύγωνο με δεξί κλικ μετά τη σχεδίαση (αυτόματος επανυπολογισμός πτήσης)"
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.7/AigaioPlanner3D-Setup-2.2.7.exe",
+    "notes":  "Αυτόματη επιλογή γωνίας γραμμών και σημείου εκκίνησης (εκκίνηση από το πιο μακρινό σημείο, λιγότερες στροφές, τουλάχιστον 3 λήψεις ανά γραμμή)"
 }
