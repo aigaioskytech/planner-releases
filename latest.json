@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.9",
+    "version":  "2.2.10",
     "date":  "2026-09-04",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.9/AigaioPlanner3D-Setup-2.2.9.exe",
-    "notes":  "Εντοπισμός αυτο-τεμνόμενου περιγράμματος: κόκκινες κορυφές και προειδοποίηση αντί για λανθασμένη κάλυψη. Η προσγείωση κορυφής στο έδαφος δεν σπάει πλέον το σχήμα."
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.10/AigaioPlanner3D-Setup-2.2.10.exe",
+    "notes":  "Διόρθωση: μετά το διπλό κλικ που κλείνει το πολύγωνο, η ακριβής προσγείωση της τελευταίας κορυφής στο έδαφος ξαναϋπολογίζει πλέον την πτήση. Πριν, το περίγραμμα μετακινιόταν και το πλέγμα έμενε στην παλιά θέση."
 }
