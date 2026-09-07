@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.10",
-    "date":  "2026-09-04",
+    "version":  "2.2.11",
+    "date":  "2026-09-07",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.10/AigaioPlanner3D-Setup-2.2.10.exe",
-    "notes":  "Διόρθωση: μετά το διπλό κλικ που κλείνει το πολύγωνο, η ακριβής προσγείωση της τελευταίας κορυφής στο έδαφος ξαναϋπολογίζει πλέον την πτήση. Πριν, το περίγραμμα μετακινιόταν και το πλέγμα έμενε στην παλιά θέση."
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.11/AigaioPlanner3D-Setup-2.2.11.exe",
+    "notes":  "Διόρθωση σφάλματος γραφικών σε παλαιότερες κάρτες: αφαιρέθηκε ο συνδυασμός shader που δεν μεταγλωττιζόταν και η εφαρμογή απενεργοποιεί πλέον μόνη της τα μη υποστηριζόμενα εφέ αντί να σταματά η απεικόνιση."
 }
