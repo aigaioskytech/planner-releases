@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.12",
+    "version":  "2.2.13",
     "date":  "2026-09-07",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.12/AigaioPlanner3D-Setup-2.2.12.exe",
-    "notes":  "Πλάγιες λήψεις: η κάμερα παίρνει θέση πριν το σημείο και η λήψη σταματά στις στροφές, ώστε κάθε φωτογραφία να βγαίνει στη σωστή γωνία. Περιμετρικό: το drone κοιτά συνεχώς τον στόχο και κινείται πλάγια (DO_SET_ROI). Ρεαλιστικός χρόνος πτήσης με στροφές, άνοδο και μετάβαση από το Home."
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.13/AigaioPlanner3D-Setup-2.2.13.exe",
+    "notes":  "Οψεις κτηρίου: το drone κρατά συνεχώς το βλέμμα στην όψη και κινείται πλάγια, με στόχο υπολογισμένο ανά σημείο ώστε η γωνία λήψης να μένει σταθερή. Εγγυημένος χρόνος για το gimbal: η αποστολή περιμένει ρητά πριν το κλείστρο όταν το σκέλος δεν επαρκεί, με προειδοποίηση και προτεινόμενη ταχύτητα."
 }
