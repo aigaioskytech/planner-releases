@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.11",
+    "version":  "2.2.12",
     "date":  "2026-09-07",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.11/AigaioPlanner3D-Setup-2.2.11.exe",
-    "notes":  "Διόρθωση σφάλματος γραφικών σε παλαιότερες κάρτες: αφαιρέθηκε ο συνδυασμός shader που δεν μεταγλωττιζόταν και η εφαρμογή απενεργοποιεί πλέον μόνη της τα μη υποστηριζόμενα εφέ αντί να σταματά η απεικόνιση."
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.12/AigaioPlanner3D-Setup-2.2.12.exe",
+    "notes":  "Πλάγιες λήψεις: η κάμερα παίρνει θέση πριν το σημείο και η λήψη σταματά στις στροφές, ώστε κάθε φωτογραφία να βγαίνει στη σωστή γωνία. Περιμετρικό: το drone κοιτά συνεχώς τον στόχο και κινείται πλάγια (DO_SET_ROI). Ρεαλιστικός χρόνος πτήσης με στροφές, άνοδο και μετάβαση από το Home."
 }
