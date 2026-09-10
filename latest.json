@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.13",
-    "date":  "2026-09-07",
+    "version":  "2.2.14",
+    "date":  "2026-09-10",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.13/AigaioPlanner3D-Setup-2.2.13.exe",
-    "notes":  "Οψεις κτηρίου: το drone κρατά συνεχώς το βλέμμα στην όψη και κινείται πλάγια, με στόχο υπολογισμένο ανά σημείο ώστε η γωνία λήψης να μένει σταθερή. Εγγυημένος χρόνος για το gimbal: η αποστολή περιμένει ρητά πριν το κλείστρο όταν το σκέλος δεν επαρκεί, με προειδοποίηση και προτεινόμενη ταχύτητα."
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.14/AigaioPlanner3D-Setup-2.2.14.exe",
+    "notes":  "Περιμετρικό και όψεις: η κατεύθυνση της κάμερας δίνεται ρητά πριν από κάθε σημείο, ώστε το drone να κινείται πλάγια κοιτώντας σταθερά την περιοχή. Κατά το ανέβασμα ρυθμίζεται αυτόματα το WP_YAW_BEHAVIOR=0 που απαιτείται για να διατηρείται η κατεύθυνση."
 }
