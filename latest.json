@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.14",
-    "date":  "2026-09-10",
+    "version":  "2.2.15",
+    "date":  "2026-09-17",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.14/AigaioPlanner3D-Setup-2.2.14.exe",
-    "notes":  "Περιμετρικό και όψεις: η κατεύθυνση της κάμερας δίνεται ρητά πριν από κάθε σημείο, ώστε το drone να κινείται πλάγια κοιτώντας σταθερά την περιοχή. Κατά το ανέβασμα ρυθμίζεται αυτόματα το WP_YAW_BEHAVIOR=0 που απαιτείται για να διατηρείται η κατεύθυνση."
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.15/AigaioPlanner3D-Setup-2.2.15.exe",
+    "notes":  "Αποθήκευση και άνοιγμα πτήσης: το πλάνο φυλάσσεται σε αρχείο .aigaio μαζί με το σχήμα, το Home και όλες τις ρυθμίσεις, και φορτώνεται ξανά ακριβώς όπως ήταν."
 }
