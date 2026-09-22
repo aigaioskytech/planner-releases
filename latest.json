@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.20",
+    "version":  "2.2.22",
     "date":  "2026-09-22",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.20/AigaioPlanner3D-Setup-2.2.20.exe",
-    "notes":  "Το εικονίδιο της εφαρμογής εμφανίζεται πλέον σωστά στο παράθυρο και στη γραμμή εργασιών των Windows."
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.22/AigaioPlanner3D-Setup-2.2.22.exe",
+    "notes":  "Οι Ρυθμίσεις εμφανίζονται πλέον μόνο επάνω δεξιά. Σωστό εικονίδιο στις συντομεύσεις των Windows και τακτοποίηση του φακέλου στο μενού Έναρξης με τη νέα ονομασία."
 }
