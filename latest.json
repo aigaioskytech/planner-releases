@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.17",
+    "version":  "2.2.18",
     "date":  "2026-09-22",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.17/AigaioPlanner3D-Setup-2.2.17.exe",
-    "notes":  "Η εμφάνιση ακολουθεί πλέον τα χρώματα του σήματος Aigaio Skytech, με τη γραμματοσειρά Roboto σε κάθε στοιχείο της εφαρμογής. Νέο εικονίδιο σε μπλε και λευκό, φτιαγμένο από το ίδιο το σήμα. Το κουμπί Βοήθεια ανοίγει το εγχειρίδιο."
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.18/AigaioPlanner3D-Setup-2.2.18.exe",
+    "notes":  "Το πλήρες σήμα Aigaio Skytech εμφανίζεται στην επάνω μπάρα της εφαρμογής."
 }
