@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.18",
+    "version":  "2.2.19",
     "date":  "2026-09-22",
     "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.18/AigaioPlanner3D-Setup-2.2.18.exe",
-    "notes":  "Το πλήρες σήμα Aigaio Skytech εμφανίζεται στην επάνω μπάρα της εφαρμογής."
+    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.19/AigaioPlanner3D-Setup-2.2.19.exe",
+    "notes":  "Η εφαρμογή ονομάζεται πλέον Aigaio Planner 3D. Η επάνω μπάρα δείχνει το σήμα και το όνομα, χωρίς το μοντέλο του UAV."
 }
