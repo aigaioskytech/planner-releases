@@ -1,7 +1,7 @@
 {
-    "version":  "2.2.23",
-    "date":  "2026-09-22",
-    "url":  "https://github.com/aigaioskytech/planner-releases/releases/latest",
-    "exe":  "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.23/AigaioPlanner3D-Setup-2.2.23.exe",
-    "notes":  "Οι Ρυθμίσεις και η Βοήθεια βρίσκονται πλέον μόνο επάνω δεξιά. Στον χάρτη μένουν μόνο τα κουμπιά προβολής."
+  "version": "2.2.31",
+  "date": "2026-11-11",
+  "url": "https://github.com/aigaioskytech/planner-releases/releases/latest",
+  "exe": "https://github.com/aigaioskytech/planner-releases/releases/download/v2.2.31/AigaioPlanner3D-Setup-2.2.31.exe",
+  "notes": "Βελάκια στον χάρτη δείχνουν τη φορά πτήσης σε κάθε γραμμή. Το περιμετρικό πέρασμα ξεκινά από το σημείο όπου τελειώνει η προηγούμενη πτήση. Οι γραμμές λήψης μένουν μέσα στο πολύγωνο. Τα κουμπιά Σχεδίασε, Home και Καθαρισμός βρίσκονται πλέον στην κορυφή της καρτέλας Πλάνο."
 }
